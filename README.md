@@ -1,1 +1,3 @@
-# Lab3_Artificial-Intelligence-and-Machine-Learning
+# Практическая работа №3. 
+## Тема: основы работы с библиотекой matplotlib.
+## Цель работы: исследовать базовые возможности библиотеки matplotlib языка программирования Python.
